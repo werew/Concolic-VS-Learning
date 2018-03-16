@@ -21,7 +21,7 @@ public class ProcessSUL implements SUL<String, String> {
     private Writer processInput;
     private BufferedReader processOutput;
 
-    ProcessSUL(String path) {
+    public ProcessSUL(String path) {
         ArrayList command = Lists.newArrayList(new String[]{path});
         this.pb = new ProcessBuilder(command);
         this.pb.redirectErrorStream(true);
