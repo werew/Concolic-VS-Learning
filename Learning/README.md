@@ -1,4 +1,5 @@
 # Learning models for programs of the RERS challenge
+### (source: https://github.com/TUDelft-CS4110-2018/Learning)
 
 This repo contains a basic setup for learning Mealy machine models of programs from the RERS challenge using the L* algorithm. It makes use of LearnLib ( http://learnlib.de/), a library for active model learning. A hassle-free, compiled version of the library has been added to this repository for convenience (getting started with LearnLib from their GitHub repo can be a bit confusing, because the library is not very well documented).
 
