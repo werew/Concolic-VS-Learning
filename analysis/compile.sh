@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CLASSPATH=../Learning/out/production/RERSLearning:
+CLASSPATH=../Learning/build:
 CLASSPATH+=../Learning/lib/learnlib.jar
 
 javac -cp "$CLASSPATH" $1
