@@ -1,6 +1,6 @@
 a.out
 hypothesis*
-Test.class
+*.class
 *.swp
 *.swo
 notes
