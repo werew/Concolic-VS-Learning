@@ -1,0 +1,105 @@
+Reachability problems:
+===============================
+error_4 reachable via input sequence
+[L, L, G, I, H, J, A, I, A]
+---------------
+
+error_13 reachable via input sequence
+[B, K, N, M, K, B, L, I, I]
+---------------
+
+error_15 reachable via input sequence
+[L, I, K, F, G, M, F, I, F]
+---------------
+
+error_17 reachable via input sequence
+[J, D, F, M, J, F, B, O, B, O, B, O, B, O, B, O, B, O, B, O, B, O, B, O, B, O, B, O, B, O, B, O, B, O, B, O, B, H, A]
+---------------
+
+error_18 reachable via input sequence
+[J, J, H, F, H, A, L, B, L, F, O]
+---------------
+
+error_19 reachable via input sequence
+[J, J, H, F, I, H, G, D, G, D, G, D, G, D, G, D, G, I, A]
+---------------
+
+error_20 reachable via input sequence
+[J, D, F, M, J, G, I, K, I, K, I, K, I, K, I, K, I, K, I, K, I, K, I, K, H, F, D]
+---------------
+
+error_21 reachable via input sequence
+[L, I, K, F, A, J, G, N, E]
+---------------
+
+error_22 reachable via input sequence
+[L, I, B, L, A, L, J, G, E]
+---------------
+
+error_23 reachable via input sequence
+[L, I, K, F, H, J, H, K, C]
+---------------
+
+error_24 reachable via input sequence
+[B, K, N, A, L, N, M, B, I]
+---------------
+
+error_26 reachable via input sequence
+[L, I, B, L, F, I, M, K, A]
+---------------
+
+error_32 reachable via input sequence
+[J, D, F, M, J, G, G, B, G, B, G, B, G, B, G, B, G, B, G, B, G, B, G, F, I]
+---------------
+
+error_33 reachable via input sequence
+[J, J, H, K, M, L, F, L, F, L, F, L, F, L, F, L, F, L, F, H, L]
+---------------
+
+error_35 reachable via input sequence
+[J, J, H, K, H, F, M, F, G, A, C]
+---------------
+
+error_42 reachable via input sequence
+[L, I, K, F, A, J, G, N, K, J]
+---------------
+
+error_50 reachable via input sequence
+[L, I, K, F, A, J, A, J, M, E]
+---------------
+
+error_52 reachable via input sequence
+[B, K, N, M, K, G, I, D, D]
+---------------
+
+error_63 reachable via input sequence
+[B, K, N, M, G, M, D, F, H]
+---------------
+
+error_75 reachable via input sequence
+[L, I, K, F, G, M, A, D, G]
+---------------
+
+error_78 reachable via input sequence
+[L, L, G, I, H, J, H, N, G]
+---------------
+
+error_79 reachable via input sequence
+[B, K, N, M, F, G, M, F, M]
+---------------
+
+error_84 reachable via input sequence
+[L, I, K, F, A, J, A, J, N, H]
+---------------
+
+error_90 reachable via input sequence
+[J, D, F, M, J, F, K, L, K, L, K, L, K, L, K, L, K, L, K, L, K, L, K, L, K, L, K, L, K, L, L, G, H]
+---------------
+
+error_91 reachable via input sequence
+[L, I, K, F, A, J, A, J, E]
+---------------
+
+All other errors unreachable
+
+
