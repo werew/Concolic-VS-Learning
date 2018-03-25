@@ -1,0 +1,40 @@
+sab 24 mar 2018, 17.38.12, CET
+SUL: ../../../../RERS_challs/RERS2017_refactored4learning/Problem15/a.out
+Alphabet up to: 15
+Learning Method: LStar
+Testing Method: WMethod
+Starting experiment
+model size 232
+0: Sat Mar 24 17:46:02 CET 2018
+Hypothesis size: 232 states
+learning queries/symbols: 55695/403575(55695/403575 this learning round)
+testing queries/symbols: 150449/1186251(94754/782676 this testing round)
+
+model size 233
+1: Sat Mar 24 18:02:22 CET 2018
+Hypothesis size: 233 states
+learning queries/symbols: 154695/1223588(4246/37337 this learning round)
+testing queries/symbols: 356255/2886788(201560/1663200 this testing round)
+
+model size 234
+2: Sat Mar 24 18:33:50 CET 2018
+Hypothesis size: 234 states
+learning queries/symbols: 360591/2922775(4336/35987 this learning round)
+testing queries/symbols: 565930/4611588(205339/1688813 this testing round)
+
+model size 237
+3: Sat Mar 24 19:06:21 CET 2018
+Hypothesis size: 237 states
+learning queries/symbols: 574272/4681102(8342/69514 this learning round)
+testing queries/symbols: 905147/7434580(330875/2753478 this testing round)
+
+model size 238
+4: Sat Mar 24 19:59:56 CET 2018
+Hypothesis size: 238 states
+learning queries/symbols: 909723/7473672(4576/39092 this learning round)
+testing queries/symbols: 1468373/12133925(558650/4660253 this testing round)
+
+model size 239
+5: Sat Mar 24 21:30:07 CET 2018
+Hypothesis size: 239 states
+learning queries/symbols: 1473039/12173917(4666/39992 this learning round)

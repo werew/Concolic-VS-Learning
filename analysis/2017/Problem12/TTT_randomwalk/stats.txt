@@ -1,0 +1,49 @@
+dom 25 mar 2018, 15.21.29, CEST
+SUL: ../../../../RERS_challs/RERS2017_refactored4learning/Problem12/a.out
+Alphabet up to: 15
+Learning Method: TTT
+Testing Method: RandomWalk
+Starting experiment
+model size 1
+0: Sun Mar 25 15:21:29 CEST 2018
+Hypothesis size: 1 states
+learning queries/symbols: 15/15(15/15 this learning round)
+testing queries/symbols: 16/27(1/12 this testing round)
+
+model size 2
+1: Sun Mar 25 15:21:29 CEST 2018
+Hypothesis size: 2 states
+learning queries/symbols: 64/168(48/141 this learning round)
+testing queries/symbols: 68/185(4/17 this testing round)
+
+model size 4
+2: Sun Mar 25 15:21:30 CEST 2018
+Hypothesis size: 4 states
+learning queries/symbols: 176/524(108/339 this learning round)
+testing queries/symbols: 178/558(2/34 this testing round)
+
+model size 28
+3: Sun Mar 25 15:21:41 CEST 2018
+Hypothesis size: 28 states
+learning queries/symbols: 1949/10395(1771/9837 this learning round)
+testing queries/symbols: 1952/10419(3/24 this testing round)
+
+model size 32
+4: Sun Mar 25 15:21:43 CEST 2018
+Hypothesis size: 32 states
+learning queries/symbols: 2236/11999(284/1580 this learning round)
+testing queries/symbols: 2243/12071(7/72 this testing round)
+
+model size 38
+5: Sun Mar 25 15:21:47 CEST 2018
+Hypothesis size: 38 states
+learning queries/symbols: 2782/15327(539/3256 this learning round)
+testing queries/symbols: 2788/15397(6/70 this testing round)
+
+model size 44
+6: Sun Mar 25 15:21:51 CEST 2018
+Hypothesis size: 44 states
+learning queries/symbols: 3360/18705(572/3308 this learning round)
+testing queries/symbols: 3385/19005(25/300 this testing round)
+
+Finished learning!

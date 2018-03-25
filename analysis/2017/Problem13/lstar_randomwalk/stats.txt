@@ -1,0 +1,13 @@
+dom 25 mar 2018, 15.07.36, CEST
+SUL: ../../../../RERS_challs/RERS2017_refactored4learning/Problem13/a.out
+Alphabet up to: 10
+Learning Method: LStar
+Testing Method: RandomWalk
+Starting experiment
+model size 237
+0: Sun Mar 25 15:11:05 CEST 2018
+Hypothesis size: 237 states
+learning queries/symbols: 26080/183980(26080/183980 this learning round)
+testing queries/symbols: 26109/184280(29/300 this testing round)
+
+Finished learning!

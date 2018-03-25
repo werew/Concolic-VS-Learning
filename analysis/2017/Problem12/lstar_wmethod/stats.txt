@@ -1,0 +1,16 @@
+sab 24 mar 2018, 11.58.11, CET
+SUL: ../../../../RERS_challs/RERS2017_refactored4learning/Problem12/a.out
+Alphabet up to: 15
+Learning Method: LStar
+Testing Method: WMethod
+Starting experiment
+model size 58
+0: Sat Mar 24 11:59:53 CET 2018
+Hypothesis size: 58 states
+learning queries/symbols: 13935/80505(13935/80505 this learning round)
+testing queries/symbols: 557752/4222826(543817/4142321 this testing round)
+
+model size 61
+1: Sat Mar 24 13:20:33 CET 2018
+Hypothesis size: 61 states
+learning queries/symbols: 559643/4237453(1891/14627 this learning round)

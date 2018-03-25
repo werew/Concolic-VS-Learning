@@ -1,0 +1,85 @@
+dom 25 mar 2018, 15.22.59, CEST
+SUL: ../../../../RERS_challs/RERS2017_refactored4learning/Problem14/a.out
+Alphabet up to: 15
+Learning Method: TTT
+Testing Method: RandomWalk
+Starting experiment
+model size 1
+0: Sun Mar 25 15:22:59 CEST 2018
+Hypothesis size: 1 states
+learning queries/symbols: 15/15(15/15 this learning round)
+testing queries/symbols: 16/19(1/4 this testing round)
+
+model size 5
+1: Sun Mar 25 15:23:00 CEST 2018
+Hypothesis size: 5 states
+learning queries/symbols: 212/682(196/663 this learning round)
+testing queries/symbols: 215/695(3/13 this testing round)
+
+model size 9
+2: Sun Mar 25 15:23:01 CEST 2018
+Hypothesis size: 9 states
+learning queries/symbols: 478/1830(263/1135 this learning round)
+testing queries/symbols: 479/1833(1/3 this testing round)
+
+model size 16
+3: Sun Mar 25 15:23:06 CEST 2018
+Hypothesis size: 16 states
+learning queries/symbols: 1212/5310(733/3477 this learning round)
+testing queries/symbols: 1217/5345(5/35 this testing round)
+
+model size 18
+4: Sun Mar 25 15:23:06 CEST 2018
+Hypothesis size: 18 states
+learning queries/symbols: 1376/6048(159/703 this learning round)
+testing queries/symbols: 1386/6140(10/92 this testing round)
+
+model size 31
+5: Sun Mar 25 15:23:16 CEST 2018
+Hypothesis size: 31 states
+learning queries/symbols: 2720/14701(1334/8561 this learning round)
+testing queries/symbols: 2729/14787(9/86 this testing round)
+
+model size 33
+6: Sun Mar 25 15:23:18 CEST 2018
+Hypothesis size: 33 states
+learning queries/symbols: 2909/15921(180/1134 this learning round)
+testing queries/symbols: 2913/15962(4/41 this testing round)
+
+model size 42
+7: Sun Mar 25 15:23:28 CEST 2018
+Hypothesis size: 42 states
+learning queries/symbols: 4445/24770(1532/8808 this learning round)
+testing queries/symbols: 4451/24817(6/47 this testing round)
+
+model size 54
+8: Sun Mar 25 15:23:36 CEST 2018
+Hypothesis size: 54 states
+learning queries/symbols: 5535/31989(1084/7172 this learning round)
+testing queries/symbols: 5539/32042(4/53 this testing round)
+
+model size 62
+9: Sun Mar 25 15:23:43 CEST 2018
+Hypothesis size: 62 states
+learning queries/symbols: 6436/38465(897/6423 this learning round)
+testing queries/symbols: 6450/38632(14/167 this testing round)
+
+model size 77
+10: Sun Mar 25 15:23:56 CEST 2018
+Hypothesis size: 77 states
+learning queries/symbols: 8070/49593(1620/10961 this learning round)
+testing queries/symbols: 8077/49649(7/56 this testing round)
+
+model size 78
+11: Sun Mar 25 15:23:56 CEST 2018
+Hypothesis size: 78 states
+learning queries/symbols: 8148/49906(71/257 this learning round)
+testing queries/symbols: 8178/50155(30/249 this testing round)
+
+model size 88
+12: Sun Mar 25 15:24:04 CEST 2018
+Hypothesis size: 88 states
+learning queries/symbols: 9273/57230(1095/7075 this learning round)
+testing queries/symbols: 9307/57530(34/300 this testing round)
+
+Finished learning!
