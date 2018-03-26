@@ -14,7 +14,7 @@ public class ParamTest {
      */
     public static void main(String [] args) throws IOException {
         if (args.length < 4){
-            System.out.println("usage: java ParamTest <SUL (program)> <Alphabet> <Learning method> <Testing method>");
+            System.out.println("usage: java ParamTest <SUL (program)> <Alphabet> <Learning method> <Testing method> [bootstrapQueries]");
             return;
         }
        
@@ -71,6 +71,11 @@ public class ParamTest {
             default:
                 System.out.println("Invalid testing method");
                 return;
+        }
+
+        // Bootstrap queries
+        if (args.length > 4){
+            BasicLearner.bootstrapOracle = new FileEQOracle(sul,args[4]);
         }
 
 

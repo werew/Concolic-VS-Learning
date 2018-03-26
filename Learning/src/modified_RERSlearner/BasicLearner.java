@@ -72,6 +72,11 @@ public class BasicLearner {
 	 * MaxDepth-parameter for W-method and Wp-method. Typically not larger than 3. Decrease for quicker runs.
 	 */
 	public static int w_wp_methods_maxDepth = 2;
+	
+    /**
+     * If set, this oracle is used as first source of counterexamples
+     */
+    public static EquivalenceOracle<MealyMachine<?, String, ?, String>, String, Word<String>> bootstrapOracle = null;
 
 	//*****************************************//
 	// Predefined learning and testing methods //
@@ -202,7 +207,15 @@ public class BasicLearner {
 				lastNrSymbolsValue = nrSymbols.getCount();
 				
 				// Search for CE
-				DefaultQuery<String, Word<String>> ce = eqOracle.findCounterExample(learner.getHypothesisModel(), alphabet);
+				DefaultQuery<String, Word<String>> ce = null;
+                if (bootstrapOracle != null){
+				    ce = bootstrapOracle.findCounterExample(learner.getHypothesisModel(), alphabet);
+                }
+
+                // If CE not found using bootstrapOracle, let's search on our own
+                if (ce == null) { 
+				    ce = eqOracle.findCounterExample(learner.getHypothesisModel(), alphabet);
+                }
 				
 				// Log number of queries/symbols
 				roundResets = nrResets.getCount() - lastNrResetsValue;
