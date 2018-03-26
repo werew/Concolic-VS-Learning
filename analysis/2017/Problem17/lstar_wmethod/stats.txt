@@ -38,3 +38,21 @@ model size 589
 5: Sun Mar 25 17:48:35 CEST 2018
 Hypothesis size: 589 states
 learning queries/symbols: 694996/6084521(20087/187294 this learning round)
+testing queries/symbols: 911700/8052460(216704/1967939 this testing round)
+
+model size 590
+6: Sun Mar 25 18:27:59 CEST 2018
+Hypothesis size: 590 states
+learning queries/symbols: 921721/8146617(10021/94157 this learning round)
+testing queries/symbols: 1451613/13132932(529892/4986315 this testing round)
+
+model size 599
+7: Sun Mar 25 20:07:00 CEST 2018
+Hypothesis size: 599 states
+learning queries/symbols: 1473095/13333591(21482/200659 this learning round)
+testing queries/symbols: 1553713/14016624(80618/683033 this testing round)
+
+model size 610
+8: Sun Mar 25 20:22:29 CEST 2018
+Hypothesis size: 610 states
+learning queries/symbols: 1568504/14158316(14791/141692 this learning round)
