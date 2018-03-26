@@ -1,0 +1,14 @@
+array program[220] : w32 -> w8 = symbolic
+(query [(Eq 6
+             (ReadLSB w32 0 program))
+         (Eq 12
+             (ReadLSB w32 4 program))
+         (Eq 2
+             (ReadLSB w32 8 program))
+         (Eq 12
+             (ReadLSB w32 12 program))
+         (Eq 1
+             (ReadLSB w32 16 program))
+         (Eq 1
+             (ReadLSB w32 20 program))]
+        false)

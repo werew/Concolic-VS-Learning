@@ -1,0 +1,37 @@
+Reachability problems:
+===============================
+error_5 reachable via input sequence
+[D, H, G, E]
+---------------
+
+error_18 reachable via input sequence
+[D, H, B, C]
+---------------
+
+error_20 reachable via input sequence
+[D, H, C]
+---------------
+
+error_36 reachable via input sequence
+[D, J, E, E, F, E, C, C, I]
+---------------
+
+error_56 reachable via input sequence
+[D, G, H, E, D, G, H, D, C]
+---------------
+
+error_69 reachable via input sequence
+[D, G, H, E, D, G, H, B, I]
+---------------
+
+error_71 reachable via input sequence
+[C, C, D, H, B, D, E, I, D, A]
+---------------
+
+error_73 reachable via input sequence
+[D, G, C, C]
+---------------
+
+All other errors unreachable
+
+

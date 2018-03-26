@@ -1,0 +1,27 @@
+KLEE: Using STP solver backend
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1384: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1276: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1336: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1200: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1476: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1148: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1272: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1240: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1088: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1424: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1224: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem15/Problem15.c:1316: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: HaltTimer invoked
+KLEE: halting execution, dumping remaining states

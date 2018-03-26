@@ -1,0 +1,8 @@
+Error: ASSERTION FAIL: 0
+File: /home/klee/RERS_challs/RERS2017/Problem13/Problem13.c
+Line: 753
+assembly.ll line: 978
+Stack: 
+	#000000978 in errorCheck () at /home/klee/RERS_challs/RERS2017/Problem13/Problem13.c:753
+	#100030652 in calculate_output (input) at /home/klee/RERS_challs/RERS2017/Problem13/Problem13.c:8060
+	#200030737 in main () at /home/klee/RERS_challs/RERS2017/Problem13/Problem13.c:8078

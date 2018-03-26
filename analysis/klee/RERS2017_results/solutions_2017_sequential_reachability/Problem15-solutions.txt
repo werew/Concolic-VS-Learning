@@ -1,0 +1,85 @@
+Reachability problems:
+===============================
+error_0 reachable via input sequence
+[C, L, I, H, L, H, K, G, I, L, F, D, D, G, I, D, J, I, D, H, M, F, E, B]
+---------------
+
+error_1 reachable via input sequence
+[M, E, H, D, I, I, D, I, D, I, D, I, D, I, D, I, D, I, D, I, D, H, L, O]
+---------------
+
+error_2 reachable via input sequence
+[M, L, I, L, C, O, M]
+---------------
+
+error_7 reachable via input sequence
+[M, E, H, D, I, I, D, I, D, I, D, I, D, I, D, I, D, I, D, I, D, I, D, I, D, I, D, H, L, C]
+---------------
+
+error_13 reachable via input sequence
+[M, E, H, D, I, H, B, H, B, H, B, H, B, H, B, H, B, H, B, H, B, H, B, H, L, N]
+---------------
+
+error_17 reachable via input sequence
+[M, L, I, L, C, H, H]
+---------------
+
+error_30 reachable via input sequence
+[M, L, I, L, J, H, H]
+---------------
+
+error_36 reachable via input sequence
+[M, L, I, L, H, D, K]
+---------------
+
+error_40 reachable via input sequence
+[M, L, I, L, C, K, C]
+---------------
+
+error_44 reachable via input sequence
+[M, L, N, K, D, M, M, M, M, M, M, H, F, A]
+---------------
+
+error_48 reachable via input sequence
+[M, L, I, L, J, F, A]
+---------------
+
+error_49 reachable via input sequence
+[M, L, I, O, O, I, A]
+---------------
+
+error_54 reachable via input sequence
+[M, B, H, D, H, O, G, O, G, O, G, O, G, O, G, O, G, O, G, O, G, O, G, O, G, O, G, O, G, O, G, O, B, N]
+---------------
+
+error_59 reachable via input sequence
+[M, L, N, O, O, B, J, B, B, M]
+---------------
+
+error_64 reachable via input sequence
+[M, L, I, O, O, M, C]
+---------------
+
+error_71 reachable via input sequence
+[M, L, I, E, G, N, F, N, F, N, F, N, F, N, F, J, L, H]
+---------------
+
+error_76 reachable via input sequence
+[M, L, I, O, O, H, F]
+---------------
+
+error_86 reachable via input sequence
+[M, L, I, L, C, D, I]
+---------------
+
+error_90 reachable via input sequence
+[M, L, N, O, K, L, G, L, G, L, G, L, G, L, G, L, G, L, G, L, I, F]
+---------------
+
+error_99 reachable via input sequence
+[M, L, I, L, B, E, C]
+---------------
+
+All other errors unreachable
+
+

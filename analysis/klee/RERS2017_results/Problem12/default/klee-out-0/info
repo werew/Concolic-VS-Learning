@@ -1,0 +1,21 @@
+klee --allow-external-sym-calls -only-output-states-covering-new -max-time=18000 Problem12.bc
+PID: 2517
+Started: 2018-03-24 14:59:59
+BEGIN searcher description
+<InterleavedSearcher> containing 2 searchers:
+RandomPathSearcher
+WeightedRandomSearcher::CoveringNew
+</InterleavedSearcher>
+END searcher description
+Finished: 2018-03-24 20:00:10
+Elapsed: 05:00:11
+KLEE: done: explored paths = 868008
+KLEE: done: avg. constructs per query = 120
+KLEE: done: total queries = 7095
+KLEE: done: valid queries = 0
+KLEE: done: invalid queries = 7095
+KLEE: done: query cex = 7095
+
+KLEE: done: total instructions = 1286908139
+KLEE: done: completed paths = 868008
+KLEE: done: generated tests = 178

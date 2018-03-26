@@ -1,0 +1,91 @@
+KLEE: Using STP solver backend
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:717: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:749: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:761: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:861: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:801: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:901: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:797: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:865: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:837: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:729: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:789: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:817: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:1089: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:869: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:737: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:857: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:965: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:1033: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:1057: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:825: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:997: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:893: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:981: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:1021: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:949: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:849: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:781: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:1105: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:841: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:721: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:1061: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:809: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:941: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:925: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:753: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:905: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:845: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:1017: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:1073: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:889: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:741: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:897: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:1041: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:733: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: HaltTimer invoked
+KLEE: halting execution, dumping remaining states

@@ -1,0 +1,76 @@
+array program[144] : w32 -> w8 = symbolic
+(query [(Eq 13
+             (ReadLSB w32 0 program))
+         (Eq 12
+             (ReadLSB w32 4 program))
+         (Eq 3
+             (ReadLSB w32 8 program))
+         (Eq 3
+             (ReadLSB w32 12 program))
+         (Eq 8
+             (ReadLSB w32 16 program))
+         (Eq 3
+             (ReadLSB w32 20 program))
+         (Eq 3
+             (ReadLSB w32 24 program))
+         (Eq 14
+             (ReadLSB w32 28 program))
+         (Eq 15
+             (ReadLSB w32 32 program))
+         (Eq 10
+             (ReadLSB w32 36 program))
+         (Eq 15
+             (ReadLSB w32 40 program))
+         (Eq 15
+             (ReadLSB w32 44 program))
+         (Eq false
+             (And (And (And (And (And (And (And (And (And (And (And (Eq false
+                                                                        (Eq 8
+                                                                            N0:(ReadLSB w32 48 program)))
+                                                                    (Eq false (Eq 9 N0)))
+                                                               (Eq false (Eq 14 N0)))
+                                                          (Eq false (Eq 10 N0)))
+                                                     (Eq false (Eq 4 N0)))
+                                                (Eq false (Eq 13 N0)))
+                                           (Eq false (Eq 12 N0)))
+                                      (Eq false (Eq 1 N0)))
+                                 (Eq false (Eq 6 N0)))
+                            (Eq false (Eq 5 N0)))
+                       (Eq false (Eq 3 N0)))
+                  (Eq false (Eq 7 N0))))
+         (Eq false (Eq 15 N0))
+         (Eq false (Eq 2 N0))
+         (Eq false (Eq 11 N0))
+         (Eq 15
+             (ReadLSB w32 52 program))
+         (Eq 10
+             (ReadLSB w32 56 program))
+         (Eq 15
+             (ReadLSB w32 60 program))
+         (Eq 3
+             (ReadLSB w32 64 program))
+         (Eq 11
+             (ReadLSB w32 68 program))
+         (Eq 3
+             (ReadLSB w32 72 program))
+         (Eq false
+             (And (And (And (And (And (And (And (And (And (And (Eq false
+                                                                   (Eq 8
+                                                                       N1:(ReadLSB w32 76 program)))
+                                                               (Eq false (Eq 2 N1)))
+                                                          (Eq false (Eq 9 N1)))
+                                                     (Eq false (Eq 14 N1)))
+                                                (Eq false (Eq 4 N1)))
+                                           (Eq false (Eq 13 N1)))
+                                      (Eq false (Eq 12 N1)))
+                                 (Eq false (Eq 1 N1)))
+                            (Eq false (Eq 6 N1)))
+                       (Eq false (Eq 5 N1)))
+                  (Eq false (Eq 7 N1))))
+         (Eq false (Eq 15 N1))
+         (Eq false (Eq 10 N1))
+         (Eq false (Eq 11 N1))
+         (Eq false (Eq 3 N1))
+         (Eq 15
+             (ReadLSB w32 80 program))]
+        false)

@@ -1,0 +1,32 @@
+KLEE: Using STP solver backend
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:305: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:505: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:417: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:497: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:541: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:257: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:277: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:273: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:425: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:313: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:433: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:501: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:457: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:437: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: ERROR: /home/klee/RERS_challs/RERS2017/Problem11/Problem11.c:317: ASSERTION FAIL: 0
+KLEE: NOTE: now ignoring this error at this location
+KLEE: halting execution, dumping remaining states

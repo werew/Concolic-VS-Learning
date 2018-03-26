@@ -1,0 +1,9 @@
+KLEE: WARNING: undefined reference to function: fflush
+KLEE: WARNING: undefined reference to function: fprintf
+KLEE: WARNING: undefined reference to function: printf
+KLEE: WARNING: undefined reference to variable: stderr
+KLEE: WARNING: undefined reference to variable: stdout
+KLEE: WARNING ONCE: calling external: printf(235296768, 24) at /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:94407
+KLEE: WARNING ONCE: calling external: fflush(139735045694464) at /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:94408
+KLEE: WARNING ONCE: calling external: fprintf(139735045693888, 235297888, (ReadLSB w32 0 program)) at /home/klee/RERS_challs/RERS2017/Problem14/Problem14.c:99443
+KLEE: WARNING ONCE: skipping fork (memory cap exceeded)
