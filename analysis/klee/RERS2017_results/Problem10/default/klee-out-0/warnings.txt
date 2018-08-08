@@ -1,8 +1,0 @@
-KLEE: WARNING: undefined reference to function: fflush
-KLEE: WARNING: undefined reference to function: fprintf
-KLEE: WARNING: undefined reference to function: printf
-KLEE: WARNING: undefined reference to variable: stderr
-KLEE: WARNING: undefined reference to variable: stdout
-KLEE: WARNING ONCE: calling external: printf(29913056, 25) at /home/klee/RERS_challs/RERS2017/Problem10/Problem10.c:1860
-KLEE: WARNING ONCE: calling external: fflush(140100475970560) at /home/klee/RERS_challs/RERS2017/Problem10/Problem10.c:1861
-KLEE: WARNING ONCE: calling external: fprintf(140100475969984, 29914176, (ReadLSB w32 0 program)) at /home/klee/RERS_challs/RERS2017/Problem10/Problem10.c:2455
